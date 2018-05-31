@@ -1,1 +1,5 @@
-mode: "develop"
+service:
+  mode: "develop"
+  params:
+    args1 : Hello
+    args2 : World
