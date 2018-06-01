@@ -2,4 +2,4 @@ service:
   mode: "production"
   params:
     args1 : Real
-    args2 : Service for KAKAO !!
+    args2 : Service for KAKAO
