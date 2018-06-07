@@ -2,4 +2,4 @@ service:
   mode: "develop"
   params:
     args1 : Hello
-    args2 : World!!
+    args2 : World
