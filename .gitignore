@@ -1,3 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
 spring-clude-config.iml
-/.idea/
+/.idea/**
+/.idea/compiler.xml
