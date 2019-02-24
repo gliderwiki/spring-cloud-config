@@ -1,0 +1,6 @@
+service:
+  mode: "foo"
+  params:
+    args1 : foo
+    args2 : World
+
